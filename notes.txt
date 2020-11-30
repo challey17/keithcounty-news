@@ -1,0 +1,6 @@
+Nav -home, contact
+
+Header - image , contact info
+
+Body - ??? -subscription options, get KeithCounty News anywhere in the US,
+-ad deadlines , contact to run ads
