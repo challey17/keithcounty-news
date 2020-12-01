@@ -4,3 +4,7 @@ Header - image , contact info
 
 Body - ??? -subscription options, get KeithCounty News anywhere in the US,
 -ad deadlines , contact to run ads
+
+
+wireframes 
+https://repl.it/@Chayce/KeithCountyNews-wireframe#index.html
